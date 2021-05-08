@@ -1,0 +1,6 @@
+öğrendiğimiz komutlar
+git init >> Proje başlangıcında git bağlantısı.
+git status >> Proje de anlık olarak ne yapıldığını görmek için bir komut.
+git branch >> branch'ler ile çalışmak.
+git remote add origin https://link >> github bağlantısı için gerekli.
+gi push >> bağlandığımız diğer repository'e dosyaları gönderir.
